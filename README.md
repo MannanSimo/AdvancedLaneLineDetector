@@ -2,7 +2,7 @@
 Yet another lane line detection with pytnon and OpenCV for Udacity SDCND.
 
 ## Goals
-* Compute thecalibration matrix and distortion coefficients for callibration data.
+* Compute the calibration matrix and distortion coefficients for callibration data.
 * Apply a distortion correction to raw images.
 * Create a thresholded binary image.
 * Apply a "birds-eye view" perspective transform.
