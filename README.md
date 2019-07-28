@@ -1,15 +1,15 @@
 ## Advanced Lane Line Detection
-Yet another lane lane detection with pytnon and OpenCV for Udacity SDCND.
+Yet another lane line detection with pytnon and OpenCV for Udacity SDCND.
 
 ## Goals
-* Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
+* Compute thecalibration matrix and distortion coefficients for callibration data.
 * Apply a distortion correction to raw images.
-* Use color transforms, gradients, etc., to create a thresholded binary image.
-* Apply a perspective transform to rectify binary image ("birds-eye view").
-* Detect lane pixels and fit to find the lane boundary.
+* Create a thresholded binary image.
+* Apply a "birds-eye view" perspective transform.
+* Detect lane pixels.
 * Determine the curvature of the lane and vehicle position with respect to center.
-* Warp the detected lane boundaries back onto the original image.
-* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+* Render lanes back onto the original image.
+* Visual output for an user.
 
 ## Demo
 ![Demo1](Samples/output.gif)
