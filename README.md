@@ -1,5 +1,7 @@
 ## Advanced Lane Line Detection
-The goals of the project are the following:
+Yet another lane lane detection with pytnon and OpenCV for Udacity SDCND.
+
+## Goals
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
 * Use color transforms, gradients, etc., to create a thresholded binary image.
